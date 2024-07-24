@@ -22,19 +22,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando ferramentas de inteligencia artificial , projetei um video de retroscpectiva dos projetos realizados durante o bootcamp.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- HeyGen
+- ElevenLabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+-projetei um texto 'a mão' e utilizei o text to speech do elevenlabs para gerar um roteiro de fala que ao ser unido com HeyGen resultou no video.
 
 🚀 Resultados
-src="./Untitled Video.mp4"
+Abra o arquivo Video Final.mp4
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com as poucas tentativas gratuitas foram necessarias uma boa elaboração inicial para que se tornasse completo.
 
 
 ### Exemplos e Insigths
